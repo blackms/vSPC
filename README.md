@@ -1,3 +1,8 @@
+I just taken the fork writte by isnotajoke [2] and made few changes in
+order to work with my use case.
+
+ORIGINAL README:
+
 This is a fork of the vSPC.py project [1]. Most of vSPC.py, as you can
 see, was written by Zach Loafman. I made this temporary repository to
 hold some changes I made to vSPC.py until they get accepted upstream.
@@ -119,3 +124,4 @@ rpmbuild -ta vSPC-<version>.tar.gz
 - Fabien Wernli (add options to configure listen interface, fix broken -f option, packaging improvements)
 
 [1] http://sourceforge.net/p/vspcpy/home/Home/
+[2] https://github.com/isnotajoke/vSPC.py
